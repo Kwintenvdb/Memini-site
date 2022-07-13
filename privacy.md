@@ -1,7 +1,6 @@
 ---
 title: Privacy Policy
-filename: privacy.md
-layout: template
+layout: default
 ---
 
 # Privacy Policy

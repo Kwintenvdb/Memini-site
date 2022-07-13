@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "Privacy Policy"
-permalink: /privacy-policy/
+title: Privacy Policy
+filename: privacy.md
+layout: template
 ---
 
 # Privacy Policy
